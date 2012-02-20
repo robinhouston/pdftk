@@ -1,2 +1,5 @@
 *.class
 *.h
+java_lib.jar
+java_lib.o
+/com/lowagie/text/pdf/PdfEncryption.java
