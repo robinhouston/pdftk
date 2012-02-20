@@ -27,7 +27,7 @@ endif
 # this must already be set according to your platform Makefile;
 # we're just appending to it, here
 #
-CPPFLAGS+= -DPDFTK_VER=\"1.44\"
+CPPFLAGS+= -DPDFTK_VER=\"1.44.1\"
 
 all : javalib pdftk
 
